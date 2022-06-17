@@ -4110,3 +4110,9 @@ input, select, textarea {
 					}
 
 	}
+	/*project images  */
+	.project {
+		max-width:100%;
+		max-height:100%;
+		object-fit: cover;
+	}

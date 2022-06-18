@@ -4116,3 +4116,7 @@ input, select, textarea {
 		max-height:100%;
 		object-fit: cover;
 	}
+/*unset link formatting*/
+	a{
+		all: unset;		
+	}

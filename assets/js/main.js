@@ -248,3 +248,6 @@
 			._parallax();
 
 })(jQuery);
+
+//add event listener to clear text on form
+document.getElementById('clearform').reset();
